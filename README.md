@@ -1,24 +1,27 @@
-# [Your Name] - Data Analysis Portfolio
+# Ivy Dzavies - Identity & Access Management (IAM) Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains hands-on IAM projects journey documented from my home-lab while using Okta and Active Directory-Microsoft Entra ID.
 
 ## About This Portfolio Template
 
 This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+- User Lifecycle Management (JML) process
+- RBAC and Access Review
+- SSO\MFA Authentication
+- Access Review and Identity Governance
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+This section is set up to showcase my hand-on\ IAM labs.
 
-### Project Title One
+### Active Driectory Lab One
 *A brief description of your project, the tools used, and the key insights derived.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Okta Labs Two
+*This lab explains the Joiner/Mover/Leaver process in the lifecycle management process.* 
+-The tools used was OKTA
+the key insights derived....
+
 
 ### Project Title Three
 *A brief description of your project, the tools used, and the key insights derived.*
