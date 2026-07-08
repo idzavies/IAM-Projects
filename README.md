@@ -58,9 +58,5 @@ Open the `index.html` file and begin personalizing it. The file contains helpful
 - Your project titles, descriptions, and links
 - Your list of skills
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+Once you commit your changes, your new portfolio website will be live at `https://idzavies.github.io` within a few minutes!
