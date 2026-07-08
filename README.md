@@ -2,7 +2,7 @@
 
 Welcome! This repository contains hands-on IAM projects journey documented from my home-lab while using Okta and Active Directory-Microsoft Entra ID.
 
-## About This Portfolio Template
+## Repository Structure
 
 This portfolio is designed to demonstrate skills in:
 - User Lifecycle Management (JML) process
@@ -12,10 +12,12 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This section is set up to showcase my hand-on\ IAM labs.
+This section is set up to showcase the hands-on IAM labs journey.
 
-### Active Driectory Lab One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Active Driectory -Lab One
+- Created a server on Microsoft Windows 2022 Server.
+- Provisioned a domain controller on home-labs HyperV.
+- the key insights derived.*.....
 
 ### Okta Labs Two
 *This lab explains the Joiner/Mover/Leaver process in the lifecycle management process.* 
