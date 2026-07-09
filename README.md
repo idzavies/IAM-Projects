@@ -59,4 +59,4 @@ Open the `index.html` file and begin personalizing it. The file contains helpful
 - Your list of skills
 
 
-Once you commit your changes, your new portfolio website will be live at `https://idzavies.github.io` within a few minutes!
+Once you commit your changes, your new portfolio website will be live at `(https://idzavies.github.io)` within a few minutes!
