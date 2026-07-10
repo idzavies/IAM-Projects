@@ -6,7 +6,10 @@ This repository contains hands-on IAM lab journey, documented from my home-lab b
 
 **Technologies Used**: *Active Directory | Windows Server 2022 | Domain Controller | OKTA*
 
+
+
 This lab is designed to demonstrate skills in:
+
 - Active Directory Domain Service (AD DS)
 - Windows Server 2022 Data center
 - User Lifecycle Management (JML) process
@@ -18,8 +21,10 @@ This lab is designed to demonstrate skills in:
 - Provisioned a domain controller on home-labs HyperV.
 - 
 
+
 ### Okta Labs Two
 *This lab explains the Joiner/Mover/Leaver process in the lifecycle management process.* 
+
 
 
 ### 💡Key Insights gained from this lab
