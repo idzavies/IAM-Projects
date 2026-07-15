@@ -4,7 +4,7 @@
 
 This repository contains hands-on IAM lab journey, documented from my home-lab building a production-like on-premises Active Directory environment hosted in Miscrosft Hyper V manager environment, demonstrating core enterprise identity management fundamentals including domain services deployment, user lifecycle management, organizational structure design, security group configuration, and workstation domain join operations.
 
----
+
 
 ## Technologies Used
 
@@ -17,6 +17,7 @@ This repository contains hands-on IAM lab journey, documented from my home-lab b
 ![SALESFORCE](https://img.shields.io/badge/SALESFORCE-0001C0?style=flat-square&logo=SALESFORCE&logoColor=white)
 
 
+---
 ### 💡Key Insights
 This lab is designed to demonstrate skills in:
 
@@ -27,11 +28,11 @@ This lab is designed to demonstrate skills in:
 - RBAC
 
 
+
 ### Phase 1: Active Driectory
 - Created a server on Microsoft Windows 2022 Server.
 - Provisioned a domain controller on home-labs HyperV.
 - 
-
 
 ### Okta Labs
 *This lab explains the Joiner/Mover/Leaver process in the lifecycle management process.* 
