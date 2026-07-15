@@ -1,15 +1,26 @@
 # Ivy Dzavies - Identity & Access Management (IAM) Portfolio
 
 ## 🚀Project Overview 
+
 This repository contains hands-on IAM lab journey, documented from my home-lab building a production-like on-premises Active Directory environment hosted in Miscrosft Hyper V manager environment, demonstrating core enterprise identity management fundamentals including domain services deployment, user lifecycle management, organizational structure design, security group configuration, and workstation domain join operations.
 
+---
 
-**Technologies Used**: *Active Directory | Windows Server 2022 | Domain Controller | OKTA*
+## Technologies Used
+
+![ACTIVE_DIRECTORY](https://img.shields.io/badge/ACTIVE_DIRECTORY-F50C40?style=flat-square)
+![OKTA](https://img.shields.io/badge/OKTA-007DC1?style=flat-square&logo=okta&logoColor=white)
+![SAML 2.0](https://img.shields.io/badge/SAML_2.0-FF6C37?style=flat-square)
+![OIDC](https://img.shields.io/badge/OpenID_Connect-32CD32?style=flat-square)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=oauth&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/WINDOWS_SERVER_2022-4A154B?style=flat-square)
+![SALESFORCE](https://img.shields.io/badge/SALESFORCE-00A1E0?style=flat-square&logo=SALESFORCE&logoColor=white)
 
 
-
+### 💡Key Insights
 This lab is designed to demonstrate skills in:
 
+- OKTA
 - Active Directory Domain Service (AD DS)
 - Windows Server 2022 Data center
 - User Lifecycle Management (JML) process
@@ -22,26 +33,7 @@ This lab is designed to demonstrate skills in:
 - 
 
 
-### Okta Labs Two
+### Okta Labs
 *This lab explains the Joiner/Mover/Leaver process in the lifecycle management process.* 
 
 
-
-### 💡Key Insights gained from this lab
-*A brief *
-
-
-## 🛠️ Skills
-
-Update the `index.html` file to reflect technical skillset.
-
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-  
-
-
-
-
-
-Once you commit your changes, your new portfolio website will be live at `(https://idzavies.github.io)` within a few minutes!
