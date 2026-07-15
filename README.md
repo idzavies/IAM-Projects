@@ -8,13 +8,13 @@ This repository contains hands-on IAM lab journey, documented from my home-lab b
 
 ## Technologies Used
 
-![ACTIVE_DIRECTORY](https://img.shields.io/badge/ACTIVE_DIRECTORY-F50C40?style=flat-square)
-![OKTA](https://img.shields.io/badge/OKTA-007DC1?style=flat-square&logo=okta&logoColor=white)
+![ACTIVE_DIRECTORY](https://img.shields.io/badge/ACTIVE_DIRECTORY-8D021F?style=flat-square)
+![OKTA](https://img.shields.io/badge/OKTA-0080FE?style=flat-square&logo=okta&logoColor=white)
 ![SAML 2.0](https://img.shields.io/badge/SAML_2.0-FF6C37?style=flat-square)
 ![OIDC](https://img.shields.io/badge/OpenID_Connect-32CD32?style=flat-square)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=oauth&logoColor=white)
-![WINDOWS](https://img.shields.io/badge/WINDOWS_SERVER_2022-4A154B?style=flat-square)
-![SALESFORCE](https://img.shields.io/badge/SALESFORCE-00A1E0?style=flat-square&logo=SALESFORCE&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/WINDOWS_SERVER_2022-FFDB58?style=flat-square)
+![SALESFORCE](https://img.shields.io/badge/SALESFORCE-0001C0?style=flat-square&logo=SALESFORCE&logoColor=white)
 
 
 ### 💡Key Insights
