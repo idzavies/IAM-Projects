@@ -1,4 +1,4 @@
-# Ivy Dzavies - Identity & Access Management (IAM) Portfolio
+# Identity & Access Management (IAM) Portfolio
 
 ## 🚀Project Overview 
 
